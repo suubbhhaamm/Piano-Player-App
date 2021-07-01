@@ -5,10 +5,10 @@
 Step 1 - Download the above application in zip file format.  
 Step 2 - Extract the zip file and make sure android studio is installed on your system.  
 Step 3 - Open the folder in android studio.  
-Step 4 - Now you are all set to enjoy the beats of piano:)  
+Step 4 - Now you are all set to acess the source code and enjoy the beats of piano:)  
 
 
-## User Interface of Application  
+## USER INTERFACE OF APPLICATION  
 ![Piano-Player-UI](https://user-images.githubusercontent.com/33429953/124077341-0aa3ef80-da65-11eb-86bc-0ed0337cd5a7.jpeg)  
   
     
